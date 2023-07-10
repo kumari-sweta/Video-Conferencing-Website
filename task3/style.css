@@ -1,0 +1,25 @@
+#localVideoContainer,
+#remoteVideoContainer {
+  width: 320px;
+  height: 240px;
+  margin-bottom: 10px;
+}
+
+#controls {
+  margin-top: 10px;
+}
+
+button {
+  margin-right: 50px;
+  height: 50px;
+  color: blue;
+  background-color: chartreuse;
+}
+h1{
+    background-color: chartreuse;
+    color: black;
+}
+h3{
+    background: #e60505;
+    color: black;
+}
